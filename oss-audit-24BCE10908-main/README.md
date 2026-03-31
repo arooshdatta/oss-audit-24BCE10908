@@ -68,4 +68,4 @@ chmod +x *.sh
 
 ## Repository Link
 
-🔗 [https://github.com/ekjotsinghmakhija/oss-audit-24BCE10908](https://github.com/ekjotsinghmakhija/oss-audit-24BCE10908)
+🔗 [https://github.com/arooshdatta/oss-audit-24BCE10908.git](https://github.com/arooshdatta/oss-audit-24BCE10908.git)
