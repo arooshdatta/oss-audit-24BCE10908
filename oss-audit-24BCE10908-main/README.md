@@ -43,7 +43,7 @@ These scripts are designed for a **Debian/Ubuntu-based Linux environment**.
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/ekjotsinghmakhija/oss-audit-24BCE10908.git
+git clone https://github.com/arooshdatta/oss-audit-24BCE10908.git
 cd oss-audit-24BCE10908
 ```
 
